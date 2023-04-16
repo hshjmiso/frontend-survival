@@ -1,6 +1,12 @@
+import Greeting from './components/Greeting';
+
 function App() {
 	return (
-		<p>Hello, world!</p>
+		<>
+			<img src='/images/test.jpg' alt='test image' width={200}/>
+			<Greeting name='world' />
+			<p>Hello, world!</p>
+		</>
 	);
 }
 
