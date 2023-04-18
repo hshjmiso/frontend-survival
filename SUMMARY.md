@@ -8,3 +8,8 @@
   * [React](gitbook/readme/react.md)
   * [Testing Library](gitbook/readme/testing-library.md)
   * [Parcel & ESLint](gitbook/readme/parcel-and-eslint.md)
+
+***
+
+* [2주차](2/README.md)
+  * [JSX](2/jsx.md)
